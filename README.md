@@ -7,4 +7,4 @@
 * **B.Tech CSE @ Manipal Institute of Technology, Bengaluru** 
 * Exploring **Quantum Machine Learning, Ethical AI, NLP, Android app dev & Computer Vision**
 * Working Committee Member of **IEEE AP-S and MTT-S Student Chapter**
-* Currently working on **2 intellectual properties** collaboratively with *MIT-BLR**
+* Currently working on **2 intellectual properties** collaboratively with **MIT-BLR**
