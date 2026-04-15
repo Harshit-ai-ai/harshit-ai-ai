@@ -8,3 +8,13 @@
 * Exploring **Quantum Machine Learning, Ethical AI, NLP, Android app dev & Computer Vision**
 * Working Committee Member of **IEEE AP-S and MTT-S Student Chapter**
 * Currently working on **2 intellectual properties** collaboratively with **MIT-BLR**
+
+### **Languages**
+
+<p>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" height="40" title="Python" style="filter: drop-shadow(0 0 6px #9B5DE5);"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" height="40" title="C Programming" style="filter: drop-shadow(0 0 6px #9B5DE5);"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" height="40" title="SQL" style="filter: drop-shadow(0 0 6px #9B5DE5);"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" title="Java" style="filter: drop-shadow(0 0 6px #9B5DE5);"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" height="40" title="Kotlin" style="filter: drop-shadow(0 0 6px #9B5DE5);"/>
+</p>
